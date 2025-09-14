@@ -39,8 +39,3 @@ education-course-website/
 - CSS3  
 
 ---
-
-## ✨ How to Use
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/education-course-website.git
