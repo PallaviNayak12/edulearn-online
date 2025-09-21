@@ -14,14 +14,6 @@ This project is designed as a template for an online learning platform with sect
 
 ---
 
-## 📂 Project Structure
-education-course-website/  
-│── index.html  
-│── style.css  
-│── README.md  
-
----
-
 ## 📸 Screenshots
 ### 🏠 Home Page
 ![Home Screenshot](home.png)
