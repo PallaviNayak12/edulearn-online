@@ -3,7 +3,7 @@
 A responsive **Education Course Website** built using **HTML + CSS**.  
 This project is designed as a template for an online learning platform with sections for **Home, Courses, About, and Contact**.
 
----        
+---                   
 
 ## 🚀 Features
 - Responsive layout for all devices  
